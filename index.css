@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    height: auto;
+    margin: 0;
+}
+
+.firstcolor{
+    background-color: azure;
+}
+
+.secondcolor{
+    background-color: aquamarine;
+}
+
+.headcontainer{
+    padding:10px;
+    height: 150px;
+    
+}
+
+.bodycontainer{
+    height: 650px;
+    
+}
+
+.footcontainer{
+    height: 100px;
+}
+
